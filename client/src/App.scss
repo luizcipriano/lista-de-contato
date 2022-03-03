@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+input {
+  border: 1px solid;
+  height: 50px;
+}
